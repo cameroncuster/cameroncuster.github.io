@@ -26,3 +26,9 @@ The most recent book I read is **_Living With a SEAL_** by Jesse Itzler (feat. D
 - If you can see yourself doing it you can probably do it, if you can't see yourself doing it then you definitely can't do it
 - You're only 40% done (body over mind)
 - There's _always_ time for 100 push-ups
+
+## some things I want to do
+
+- [ ] Try standup comedy
+- [ ] Open water swim from Alcatraz to SF
+- [ ] Scuba Dive
