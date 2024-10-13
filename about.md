@@ -1,6 +1,6 @@
 # About Me
 
-![me](assets/me.jpg)
+<img src="assets/me.jpg" alt="me" style="float: right; margin: 0 0 20px 20px; width: 40%;">
 
 I am currently a Codepoint Fellow at Sutter Hill Ventures working at a stealth startup in the Bay Area.
 
