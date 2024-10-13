@@ -1,1 +1,1 @@
-![Russian Programmer Kid](russian-programmer-kid.gif)
+![Russian Programmer Kid](assets/russian-programmer-kid.gif)
