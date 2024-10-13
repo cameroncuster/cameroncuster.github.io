@@ -29,7 +29,6 @@ The most recent book I read is **_Living With a SEAL_** by Jesse Itzler (feat. D
 
 ## some things I want to do
 
-- [X] Run a marathon
-- [ ] Try standup comedy
-- [ ] Open water swim from Alcatraz to SF
-- [ ] Scuba Dive
+- Try standup comedy
+- Open water swim from Alcatraz to SF
+- Scuba Dive
