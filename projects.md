@@ -1,20 +1,47 @@
 # My Projects
 
+## [I Beat Rock](https://github.com/cameroncuster/I_beat_rock)
+
+[@camc on the leaderboard](https://www.whatbeatsrock.com/leaderboard-all)
+
+Developed a strategy and implemented a bot to play [What Beats Rock](https://www.whatbeatsrock.com/), overcoming unique challenges:
+
+- **LLM Judging**: The game uses an LLM for judging, which can be inconsistent. Solution: Leveraged response caching to ensure consistency once a "battle" was judged.
+- **Rate Limiting**: Set up ~20 forward proxies on GCP to distribute requests across various IP addresses, enabling longer play sessions for higher scores.
+
+Key aspects:
+- Data mining for optimal responses
+- Distributed request handling
+- Efficient caching mechanism
+
 ## [2048 Player](https://github.com/cameroncuster/2048_player)
 
-This project implements an AI player for the game 2048. The algorithm calculates the game state after 5-7 moves, simulating all possible moves and tile placements. It uses a heuristic function to evaluate board states and employs memoization and pruning for improved performance.
+An AI player for the game 2048, featuring:
+
+- Predictive algorithm simulating 5-7 future moves
+- Custom heuristic function for board state evaluation
+- Performance optimization through memoization and pruning
 
 ![2048 Player Demo](assets/2048-player-demo.gif)
 
 ## [Snake Player](https://github.com/cameroncuster/snake_player)
 
-A Snake game player that uses graph traversal algorithms, particularly AStar, for pathfinding. The player demonstrates emergent behaviors and performs well on various grid sizes, with or without obstacles. It frequently achieves perfect or near-perfect scores.
+A Snake game AI utilizing graph traversal algorithms, particularly AStar for pathfinding. 
+
+Highlights:
+- Demonstrates emergent behaviors
+- Achieves near-perfect scores on various grid sizes and obstacle configurations
 
 ![Snake Player Demo](assets/snake-player-demo.gif)
 
 ## [Quadtree Image Compression](https://github.com/cameroncuster/quadtree_image_compression)
 
-This project implements image compression using a Quadtree structure. It's designed with abstraction, Test-Driven Development (TDD), and object-oriented programming principles in mind. The tool can be used for compressing images and videos, and the Quadtree implementation can be used as a standalone library.
+Image compression tool using Quadtree structure, emphasizing:
+
+- Test-Driven Development (TDD)
+- Object-oriented design principles
+- Modular architecture for use as a standalone library
+- Applicability to both image and video compression
 
 ![Quadtree Compression Demo](assets/quadtree-image-compression-demo.gif)
 
