@@ -12,23 +12,3 @@ I am also learning how to play the piano, current piece: Bach's **_G Minor_**.
 
 The most recent book I read is **_Living With a SEAL_** by Jesse Itzler (feat. David Goggins)
 
-## some random takeaways from **_Living With a SEAL_**
-
-### From Jesse
-
-- Get your foot in the door, _then_ figure it out
-- Be open to trying to new things
-- Do something worth writing a book about
-
-### From SEAL
-
-- Do something uncomfortable _everyday_
-- If you can see yourself doing it you can probably do it, if you can't see yourself doing it then you definitely can't do it
-- You're only 40% done (body over mind)
-- There's _always_ time for 100 push-ups
-
-## some things I want to do
-
-- Try standup comedy
-- Open water swim from Alcatraz to SF
-- Scuba Dive
