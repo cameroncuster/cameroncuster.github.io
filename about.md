@@ -12,3 +12,5 @@ I am also learning how to play the piano, current piece: Bach's **_G Minor_**.
 
 The most recent book I read is **_Living With a SEAL_** by Jesse Itzler (feat. David Goggins)
 
+Oh also, I'm a big Seinfeld fan haha.
+
