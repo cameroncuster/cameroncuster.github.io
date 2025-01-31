@@ -17,7 +17,7 @@ Key aspects:
 
 ## Event Visualization
 
-A cool visualization I made for streaming live news events from around the world
+A cool visualization I made for streaming live news events from around the world.
 
 ![Globe Demo](assets/globe.gif)
 
