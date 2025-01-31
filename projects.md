@@ -10,9 +10,16 @@ Developed a strategy and implemented a bot to play [What Beats Rock](https://www
 - **Rate Limiting**: Set up ~20 forward proxies on GCP to distribute requests across various IP addresses, enabling longer play sessions for higher scores.
 
 Key aspects:
+
 - Data mining for optimal responses
 - Distributed request handling
 - Efficient caching mechanism
+
+## Event Visualization
+
+A cool visualization I made for streaming live news events from around the world
+
+![Globe Demo](assets/globe.gif)
 
 ## [2048 Player](https://github.com/cameroncuster/2048_player)
 
@@ -26,9 +33,10 @@ An AI player for the game 2048, featuring:
 
 ## [Snake Player](https://github.com/cameroncuster/snake_player)
 
-A Snake game AI utilizing graph traversal algorithms, particularly AStar for pathfinding. 
+A Snake game AI utilizing graph traversal algorithms, particularly AStar for pathfinding.
 
 Highlights:
+
 - Demonstrates emergent behaviors
 - Achieves near-perfect scores on various grid sizes and obstacle configurations
 
@@ -48,4 +56,3 @@ Image compression tool using Quadtree structure, emphasizing:
 ---
 
 I totally didn't ask an LLM to write this 😉
-
