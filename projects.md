@@ -15,7 +15,7 @@ Key aspects:
 - Distributed request handling
 - Efficient caching mechanism
 
-## Event Visualization
+## [Event Visualization](https://beta.exposit.ai/geo)
 
 A cool visualization I made for streaming live news events from around the world.
 
