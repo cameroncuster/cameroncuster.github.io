@@ -15,7 +15,7 @@ Key aspects:
 - Distributed request handling
 - Efficient caching mechanism
 
-## [Event Visualization](https://beta.exposit.ai/geo)
+## [Event Worldview](https://beta.exposit.ai/worldview)
 
 A cool visualization I made for streaming live news events from around the world.
 
