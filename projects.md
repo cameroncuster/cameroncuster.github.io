@@ -17,7 +17,7 @@ Key aspects:
 
 ## [Eventhub](https://www.eventhub.news/)
 
-Bringing the world's information to you, while letting you decide what to believe.
+Bringing the world's information to you while letting you decide what to believe.
 
 ![Globe Demo](assets/eventhub-globe.gif)
 
