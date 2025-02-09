@@ -15,11 +15,11 @@ Key aspects:
 - Distributed request handling
 - Efficient caching mechanism
 
-## [Event Worldview](https://beta.exposit.ai/worldview)
+## [Eventhub](https://www.eventhub.news/)
 
-A cool visualization I made for streaming live news events from around the world.
+Bringing the world's information to you, while letting you decide what to believe.
 
-![Globe Demo](assets/globe.gif)
+![Globe Demo](assets/eventhub-globe.gif)
 
 ## [2048 Player](https://github.com/cameroncuster/2048_player)
 
