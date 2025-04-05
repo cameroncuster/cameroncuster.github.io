@@ -1,23 +1,24 @@
-# My Projects
+# Projects
+
+## [AlgoHub](https://www.algohub.us/)
+
+A platform for my friends and I to share our favorite problems with the world
+[CF-Blog](https://codeforces.com/blog/entry/141486)
+[Tweet](https://x.com/cam_custer/status/1908623187086369276)
+
+## [Programming Team Code](https://github.com/programming-team-code)
+
+An algorithmic library for solving programming problems maintained in both rust and c++
 
 ## [I Beat Rock](https://github.com/cameroncuster/I_beat_rock)
 
 [@camc on the leaderboard](https://www.whatbeatsrock.com/leaderboard-all)
 
-Developed a strategy and implemented a bot to play [What Beats Rock](https://www.whatbeatsrock.com/), overcoming unique challenges:
-
-- **LLM Judging**: The game uses an LLM for judging, which can be inconsistent. Solution: Leveraged response caching to ensure consistency once a "battle" was judged.
-- **Rate Limiting**: Set up ~20 forward proxies on GCP to distribute requests across various IP addresses, enabling longer play sessions for higher scores.
-
-Key aspects:
-
-- Data mining for optimal responses
-- Distributed request handling
-- Efficient caching mechanism
+Developed a strategy and implemented a bot to play [What Beats Rock](https://www.whatbeatsrock.com/)
 
 ## [Eventhub](https://www.eventhub.news/)
 
-Bringing the world's information to you while letting you decide what to believe.
+Bringing the world's information to you while letting you decide what to believe
 
 ![Globe Demo](assets/eventhub-globe.gif)
 
@@ -33,7 +34,7 @@ An AI player for the game 2048, featuring:
 
 ## [Snake Player](https://github.com/cameroncuster/snake_player)
 
-A Snake game AI utilizing graph traversal algorithms, particularly AStar for pathfinding.
+A Snake game AI utilizing graph traversal algorithms, particularly AStar for pathfinding
 
 Highlights:
 

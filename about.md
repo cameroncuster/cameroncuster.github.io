@@ -2,7 +2,7 @@
 
 <img src="assets/me.jpg" alt="me" style="float: right; margin: 0 0 20px 20px; width: 40%;">
 
-I am currently a Codepoint Fellow at Sutter Hill Ventures working at a stealth startup in the Bay Area.
+I am currently a Codepoint Fellow at Sutter Hill Ventures working at a startup in the Bay Area.
 
 In college I spent most of my time solving programming and math problems for fun.
 
@@ -13,4 +13,3 @@ I am also learning how to play the piano, current piece: Bach's **_G Minor_**.
 The most recent book I read is **_Living With a SEAL_** by Jesse Itzler (feat. David Goggins)
 
 Oh also, I'm a big Seinfeld fan haha.
-
