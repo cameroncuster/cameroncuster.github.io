@@ -1,6 +1,6 @@
 # Projects
 
-## [AlgoHub](https://www.algohub.us/)
+## [gitgud.cc](https://www.gitgud.cc/)
 
 A platform for my friends and I to share our favorite problems with the world
 [CF-Blog](https://codeforces.com/blog/entry/141486)
